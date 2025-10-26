@@ -1,8 +1,8 @@
 # Project Management System
 
 - A full-stack project and task management application with user authentication, built with .NET 8 and React.
-- The application will be available at [here](https://assignment3-sigma-eight.vercel.app).
-- The API will be available at [here](https://assignment3-m4dg.onrender.com).
+- The application is available [here](https://assignment3-sigma-eight.vercel.app).
+- The API is available [here](https://assignment3-m4dg.onrender.com).
 
 ## Tech Stack
 
@@ -144,6 +144,7 @@ npm run dev
 npm run build       
 npm run lint       
 ```
+
 
 
 
