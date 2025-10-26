@@ -40,7 +40,7 @@ dotnet restore
 dotnet run
 ```
 
-The API will be available at (here)[https://assignment3-m4dg.onrender.com]
+### The API will be available at (here)[https://assignment3-m4dg.onrender.com]
 
 ### 3. Frontend Setup
 
@@ -52,7 +52,7 @@ npm install
 npm run dev
 ```
 
-The application will be available at [here](https://assignment3-sigma-eight.vercel.app)
+### The application will be available at (here)[https://assignment3-sigma-eight.vercel.app]
 
 ## Configuration
 
@@ -142,3 +142,4 @@ npm run dev         # Development server
 npm run build       # Production build
 npm run lint        # Run ESLint
 ```
+
