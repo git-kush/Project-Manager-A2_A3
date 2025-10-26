@@ -111,20 +111,20 @@ See `API_TESTING.md` for detailed API testing examples.
 ```
 .
 ├── backend/
-│   ├── Controllers/      # API endpoints
-│   ├── Models/          # Database entities
-│   ├── DTOs/            # Data transfer objects
-│   ├── Services/        # Business logic
-│   ├── Data/            # Database context
-│   └── Program.cs       # Application entry point
+│   ├── Controllers/     
+│   ├── Models/          
+│   ├── DTOs/            
+│   ├── Services/        
+│   ├── Data/            
+│   └── Program.cs       
 │
 └── frontend/
     └── src/
-        ├── pages/       # Page components
-        ├── components/  # Reusable components
-        ├── context/     # React context
-        ├── services/    # API service
-        └── types/       # TypeScript types
+        ├── pages/       
+        ├── components/  
+        ├── context/    
+        ├── services/    
+        └── types/      
 ```
 
 ## Development
@@ -133,17 +133,18 @@ See `API_TESTING.md` for detailed API testing examples.
 
 ```bash
 cd backend
-dotnet watch run    # Run with hot reload
+dotnet watch run    
 ```
 
 ### Frontend
 
 ```bash
 cd frontend
-npm run dev         # Development server
-npm run build       # Production build
-npm run lint        # Run ESLint
+npm run dev         
+npm run build       
+npm run lint       
 ```
+
 
 
 
